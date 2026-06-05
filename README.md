@@ -11,12 +11,12 @@ An interactive Power BI dashboard built to analyze accounts payable data across 
 - **5 currencies** analyzed: AUD, GBP, USD, CAD, EUR
 
 ## Dashboard Components
-- **Sum of Amount by Vendor** — identifies highest-spend vendors
-- **Currency Distribution** — payment breakdown by currency
-- **Invoice Status** — count of Paid, Open, and Partial invoices
-- **Monthly Trend (2023–2025)** — invoice amount over time
-- **Overdue Invoices** — DAX-calculated count of unpaid past-due invoices
-- **Avg Payment Days** — average invoice-to-due-date cycle
+- **Sum of Amount by Vendor** - identifies highest-spend vendors
+- **Currency Distribution** - payment breakdown by currency
+- **Invoice Status** - count of Paid, Open, and Partial invoices
+- **Monthly Trend (2023–2025)** - invoice amount over time
+- **Overdue Invoices** - DAX-calculated count of unpaid past-due invoices
+- **Avg Payment Days** - average invoice-to-due-date cycle
 
 ## Tools Used
 - Power BI Desktop
